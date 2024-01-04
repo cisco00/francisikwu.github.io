@@ -1,7 +1,7 @@
 # Data Scientist || Data Analyst || Project Manager
 
 ## Education
-#### B.Sc Economics @ Federal University Dutsin-ma, Katsina State, Nigeria (Dec, 2015)
+#### B.Sc Economics || Federal University Dutsin-ma, Katsina State, Nigeria (Dec, 2015)
 
 ## Work Experience
 ### Data Science/Machine Learning Facilitator @ Semicolon Africa 2020 - till date
@@ -32,4 +32,5 @@
 ### Stock Market Prediction
   .  Developed a predictive model using python and sklearn machine learning framework, to predict the closing price of NYSC stocks using yahoo stock API.
 
-
+### Quantifying-monetary-savings-through-preventative-work
+ . Developed an interactive machine learning model using python and streamlite framework That shows the financial savings and preventive measures set in place by the role of community connectors and social workers. This will help to predict the value of preventive measures and how quantitative monetary estimation can be used to make more informed decisions.
