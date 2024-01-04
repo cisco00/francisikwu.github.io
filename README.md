@@ -20,7 +20,7 @@
   - Designed A/B testing framework to access model quality.
   - Evaluated data sources and analysis techniques for accuracy and effectiveness.
 
-## Lectures(Semicolon Africa)
+## Lectures
 
 - Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery.
 
