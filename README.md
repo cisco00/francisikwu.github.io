@@ -54,6 +54,7 @@
   - Developed a sentiment analysis model for analysing different political party candidate tweets during the 2022 Nigeria general election using feeds from twitter API. This help the political party to know region to focus on more given   them a sense of strategy to implore in certain region of the country and approach to use.
 
 ### Crop Rotation Recommendation Engine
+![](/assets/img/recommendation.jpeg)
   - developed a recommendation engine for crop recommendations in the agricultural sector using Python. This engine utilized historical and geospatial data to provide tailored recommendations to farmers across different regions of Nigeria, optimizing crop selection and increasing farm yield.
 
 ### Stock Market Prediction
