@@ -6,7 +6,7 @@
 - B.Sc, Economics | Federal University Dutsin-ma Katsina (_December 2015_)
 
 ## Work Experience
-**Data Science/Machine Learning Facilitator @ Semicolon Africa 2020 - till date**
+**Data Science/Machine Learning Facilitator @ Semicolon Africa(2020 - to present)**
   - Uncover reasons for Native(student) dropout during the one year program, which increase a better selection process by 30%
   - Uncover the reasons for natives performance, which increase graduation and work placement by 20%
   - Oversaw projects developed in ML from start to finish.
@@ -19,6 +19,30 @@
   - Developed an algorithm through predictive modeling that recommends the farming system a farmer can adapt after farming a certain crop for a number of years which reduce land farm land depletion by 7%.
   - Designed A/B testing framework to access model quality.
   - Evaluated data sources and analysis techniques for accuracy and effectiveness.
+
+## Lectures(Semicolon Africa)
+
+- Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery.
+
+- Lecture: Introduction to data science in the banking sector- Stanbic IBTC graduate training program, Sept, 2021, 2022.
+
+- An Introduction to Statistics for Data Science
+
+- Introduction to Machine Learning(Supervised, Unsupervised and Semi-supervised)
+
+- Introduction to Numpy, Pandas, Seaborn and Matplotlib
+
+- Introduction to Inferential Statistics
+
+- Exploratory Data Analysis
+
+- Linear Regression Analysis
+
+- Data Extraction and Transformation
+
+- Time Series Analysis
+
+- Data Distribution 
 
 
 ## Projects
