@@ -6,7 +6,7 @@
 - B.Sc, Economics | Federal University Dutsin-ma Katsina (_December 2015_)
 
 ## Work Experience
-**Data Science/Machine Learning Facilitator @ Semicolon Africa(2020 - to present)**
+**Data Science/Machine Learning Facilitator @ Semicolon Africa(2021 - to present)**
   - Uncover reasons for Native(student) dropout during the one year program, which increase a better selection process by 30%
   - Uncover the reasons for natives performance, which increase graduation and work placement by 20%
   - Oversaw projects developed in ML from start to finish.
