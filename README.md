@@ -58,6 +58,7 @@
   - developed a recommendation engine for crop recommendations in the agricultural sector using Python. This engine utilized historical and geospatial data to provide tailored recommendations to farmers across different regions of Nigeria, optimizing crop selection and increasing farm yield.
 
 ### Stock Market Prediction
+![](/assets/img/stockmkt.jpeg)
   -  Developed a predictive model using python and sklearn machine learning framework, to predict the closing price of NYSC stocks using yahoo stock API.
 
 ### Quantifying-monetary-savings-through-preventative-work
