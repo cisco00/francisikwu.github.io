@@ -1,5 +1,7 @@
 # Data Scientist || Data Analyst || Project Manager
 
+#### Technical Skills: Python, SQL, AWS, Airflow, R, Statistics, Power BI 
+
 ## Education
 - B.S., Economics | Federal University Dutsin-ma Katsina (_May 2017_)
 
