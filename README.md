@@ -62,4 +62,4 @@
   -  Developed a predictive model using python and sklearn machine learning framework, to predict the closing price of NYSC stocks using yahoo stock API.
 
 ### Quantifying-monetary-savings-through-preventative-work
- - Developed an interactive machine learning model using python and streamlite framework That shows the financial savings and preventive measures set in place by the role of community connectors and social workers. This will help to predict the value of preventive measures and how quantitative monetary estimation can be used to make more informed decisions.
+ - Developed an interactive machine learning model using python and streamlite framework that Quantifying monetary savings through preventative work project using Linear Regression to forecast the cost of both social workers and community connector in the United Kingdom.
