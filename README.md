@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Airflow, R, Statistics, Power BI 
 
 ## Education
-- B.S., Economics | Federal University Dutsin-ma Katsina (_May 2017_)
+- B.Sc, Economics | Federal University Dutsin-ma Katsina (_December 2015_)
 
 ## Work Experience
 **Data Science/Machine Learning Facilitator @ Semicolon Africa 2020 - till date**
