@@ -6,7 +6,7 @@
 - B.Sc, Economics | Federal University Dutsin-ma Katsina (_December 2015_)
 
 ## Work Experience
-**Data Science/Machine Learning Facilitator @ Semicolon Africa(2021 - to present)**
+**Data Science/Machine Learning Facilitator @ Semicolon Africa (2021 - to present)**
   - Uncover reasons for Native(student) dropout during the one year program, which increase a better selection process by 30%
   - Uncover the reasons for natives performance, which increase graduation and work placement by 20%
   - Oversaw projects developed in ML from start to finish.
@@ -14,7 +14,7 @@
   - Creating Data science digital content for educational purposes
   - Creating instructional design for learning
 
-**Machine Learning Engineer @ Mungin Africa 2021 - till date**
+**Machine Learning Engineer @ Mungin Africa (2021 - till date)**
   - Collaborate with farmers to build a recommendation based engine which increased farm output by 10%. 
   - Developed an algorithm through predictive modeling that recommends the farming system a farmer can adapt after farming a certain crop for a number of years which reduce land farm land depletion by 7%.
   - Designed A/B testing framework to access model quality.
@@ -50,7 +50,7 @@
   - Analyses student performance using historical data of past student aavailable in the database to uncover why student(natives) from certain region strugle and finding it difficult to complete the one year programm using python and Power BI 
 
 ### Sentiment Analysis
-![](/assets/img/senti.png)
+![](/assets/img/senti.jpg)
   - Developed a sentiment analysis model for analysing different political party candidate tweets during the 2022 Nigeria general election using feeds from twitter API. This help the political party to know region to focus on more given   them a sense of strategy to implore in certain region of the country and approach to use.
 
 ### Crop Rotation Recommendation Engine
