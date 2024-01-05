@@ -51,7 +51,7 @@
 
 ### Sentiment Analysis
 ![](/assets/img/senti.jpg)
-  - Developed a sentiment analysis model for analysing different political party candidate tweets during the 2022 Nigeria general election using feeds from twitter API. This help the political party to know region to focus on more given   them a sense of strategy to implore in certain region of the country and approach to use.
+  - Developed a sentiment analysis model for analysing different political party candidate tweets during the 2022 Nigeria general election using feeds from twitter API. This help the political party to know region to focus on more given   them a sense of strategy to implore in certain region of the country and approach to use. Built in collaboration with Civily Africa 2022.
 
 ### Crop Rotation Recommendation Engine
 ![](/assets/img/recommendation.jpeg)
@@ -62,4 +62,4 @@
   -  Developed a predictive model using python and sklearn machine learning framework, to predict the closing price of NYSC stocks using yahoo stock API.
 
 ### Quantifying-monetary-savings-through-preventative-work
- - Developed an interactive machine learning model using python and streamlite framework that Quantifying monetary savings through preventative work project using Linear Regression to forecast the cost of both social workers and community connector in the United Kingdom.
+ - Developed an interactive machine learning model using python and streamlite framework that Quantifying monetary savings through preventative work project using Linear Regression to forecast the cost of both social workers and community connector in the United Kingdom. (Free lance Project, 2022)
