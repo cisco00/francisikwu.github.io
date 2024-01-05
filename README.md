@@ -50,7 +50,7 @@
   - Analyses student performance using historical data of past student aavailable in the database to uncover why student(natives) from certain region strugle and finding it difficult to complete the one year programm using python and Power BI 
 
 ### Sentiment Analysis
-![](/assets/img/sentimentAnalysis.png)
+![](/assets/img/senti.png)
   - Developed a sentiment analysis model for analysing different political party candidate tweets during the 2022 Nigeria general election using feeds from twitter API. This help the political party to know region to focus on more given   them a sense of strategy to implore in certain region of the country and approach to use.
 
 ### Crop Rotation Recommendation Engine
