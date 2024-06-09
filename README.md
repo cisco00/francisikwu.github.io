@@ -55,11 +55,11 @@
 
 ### Crop Rotation Recommendation Engine
 ![](/assets/img/recommendation.jpeg)
-  - developed a recommendation engine for crop recommendations in the agricultural sector using Python. This engine utilized historical and geospatial data to provide tailored recommendations to farmers across different regions of Nigeria, optimizing crop selection and increasing farm yield.
+  - developed a recommendation engine for crop recommendations in the agricultural sector using Python. This engine utilized historical and geospatial data to provide tailored recommendations to farmers across different regions of Nigeria, optimizing crop selection and increasing farm yield (https://github.com/momah95/crop_recommendation_eng.git).
 
 ### Stock Market Prediction
 ![](/assets/img/Stock_Price_Prediction.webp)
-  -  Developed a predictive model using python and sklearn machine learning framework, to predict the closing price of NYSC stocks using yahoo stock API.
+  -  Developed a predictive model using python and sklearn machine learning framework, to predict the closing price of NYSC stocks using yahoo stock API (https://github.com/cisco00/Stockclosingpriceprediction.git).
 
 ### Quantifying-monetary-savings-through-preventative-work
  - Developed an interactive machine learning model using python and streamlite framework that Quantifying monetary savings through preventative work project using Linear Regression to forecast the cost of both social workers and community connector in the United Kingdom. (Free lance Project, 2022)
